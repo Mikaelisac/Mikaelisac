@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="2ab7d413230af01e379488186e03a2fe.jpg" width="500">
+<img src="2ab7d413230af01e379488186e03a2fe.jpg" width="700">
 
 </div>
 <h5 align="center">Me chamo Mikael tenho 12 anos, e atualmente estou aprendendo programação, principalmente Python e desenvolvimento backend. Gosto bastante de tecnologia, tenho curiosidade por descobrir como as coisas funcionam por trás e aprender a cada dia! ⭐ 🚀</h5>
