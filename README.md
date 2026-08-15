@@ -8,10 +8,6 @@
 
 ### bem-vindo á minha página!
 
-sou Mikael. programador de brasil,
-e atualmente moro em são paulo
-sou menor de idade com apenas 12 anos
-mas adoro programar.
 
 </div>
 <img src="09c62903beeba336dc9da76eb5c9a107.gif" width="500">
